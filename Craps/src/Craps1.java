@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+// test 
 public class Craps1
 	{
 		static int point;
